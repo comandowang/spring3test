@@ -14,5 +14,7 @@ public class XmlBeanFactoryTests {
         TestBean testBean = (TestBean)factory.getBean("testBean");
 
         System.out.println(testBean.getBeanName());
+
+        System.out.println(111);
     }
 }
