@@ -10,6 +10,7 @@ public class XmlBeanFactoryTests {
 
         XmlBeanFactory factory = new XmlBeanFactory(resource);
 
+
         TestBean testBean = (TestBean)factory.getBean("testBean");
 
         System.out.println(testBean.getBeanName());
