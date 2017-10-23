@@ -16,5 +16,6 @@ public class XmlBeanFactoryTests {
         System.out.println(testBean.getBeanName());
 
         System.out.println(111);
+        System.out.println("这是master分支");
     }
 }
