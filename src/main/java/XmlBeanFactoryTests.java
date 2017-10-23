@@ -17,6 +17,7 @@ public class XmlBeanFactoryTests {
 
         System.out.println(111);
         System.out.println("这是master分支");
+        System.out.println("这是master分支11");
         System.out.println("这是在dev分支上");
         System.out.println("这是在dev分支上11");
         System.out.println("这是在dev分支上22");
