@@ -16,6 +16,7 @@ public class XmlBeanFactoryTests {
         System.out.println(testBean.getBeanName());
 
         System.out.println("这是在dev分支上");
+        System.out.println("这是在dev分支上11");
 
     }
 }
